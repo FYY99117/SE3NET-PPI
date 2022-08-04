@@ -68,8 +68,9 @@ Training codes in my_train.py, and the run script in my_run_train.py.
 
 Testing codes in my_test.py and my_test_bigger.py, and the run script in my_run_test.py and my_run_test_bigger.py.
 
-my_test.py: It can test the overall performance, and can also make in-depth analysis to test the performance of different test data separately. \
-my_test_bigger.py: It can test the performance between the trainset-homologous testset and the unseen testset. \
+my_test.py: It can test the overall performance, and can also make in-depth analysis to test the performance of different test data separately.
+
+my_test_bigger.py: It can test the performance between the trainset-homologous testset and the unseen testset. 
 Running script my_run_test_bigger.py as above.
 
 
