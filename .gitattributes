@@ -1,0 +1,15 @@
+my_test_bigger.py filter=lfs diff=lfs merge=lfs -text
+save_model filter=lfs diff=lfs merge=lfs -text
+my_model.py filter=lfs diff=lfs merge=lfs -text
+my_run_test_bigger.py filter=lfs diff=lfs merge=lfs -text
+my_train.py filter=lfs diff=lfs merge=lfs -text
+my_utils.py filter=lfs diff=lfs merge=lfs -text
+my_run_test.py filter=lfs diff=lfs merge=lfs -text
+my_test.py filter=lfs diff=lfs merge=lfs -text
+my_run_train.py filter=lfs diff=lfs merge=lfs -text
+train_valid_index_json filter=lfs diff=lfs merge=lfs -text
+data filter=lfs diff=lfs merge=lfs -text
+my_data.py filter=lfs diff=lfs merge=lfs -text
+bio_embedding.py filter=lfs diff=lfs merge=lfs -text
+README.md filter=lfs diff=lfs merge=lfs -text
+SE3.py filter=lfs diff=lfs merge=lfs -text
